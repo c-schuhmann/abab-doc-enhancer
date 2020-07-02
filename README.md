@@ -18,7 +18,8 @@ So I thought: Lets just take [this](https://blog.lateral.io/2016/04/create-chrom
 
 Be warned: This is mostly for myself and I won't guaratee, that this thing will work for other people. Expect this to break at any time.
 
-- Download this folder
+- Download this repository as ZIP
 - Open your Chrome extensions page
 - Activate "Developer Mode"
+- Extract ZIP file
 - Move extracted folder onto the extensions page
