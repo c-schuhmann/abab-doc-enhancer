@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "ABAP Documentation Enhancer",
+    "version": "0.1.0",
+    "description": "Enhances my personal experience with the SAP ABAP Documentation",
+    "content_scripts": [
+        {
+            "css": [
+                "styles.css"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "matches": [
+                "https://help.sap.com/doc/abapdocu_*"
+            ]
+        }
+    ]
+}
